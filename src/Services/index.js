@@ -1,0 +1,8 @@
+module.exports.data_Service = require("./data.service")
+module.exports.A_Service = require("./a.service")
+module.exports.B_Service = require("./b.service")
+module.exports.C_Service = require("./c.service")
+module.exports.D_Service = require("./d.service")
+module.exports.E_Service = require("./e.service")
+module.exports.F_Service = require("./f.service")
+module.exports.G_Service = require("./g.service")

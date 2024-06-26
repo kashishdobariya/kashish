@@ -1,0 +1,8 @@
+module.exports.Data = require("./data.model")
+module.exports.a = require("./a.model")
+module.exports.b = require("./b.model")
+module.exports.c = require("./c.model")
+module.exports.d = require("./d.model")
+module.exports.e = require("./e.model")
+module.exports.f = require("./f.model")
+module.exports.g = require("./g.model")
